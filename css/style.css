@@ -153,6 +153,9 @@ header {
     position: relative;
     padding-top: 100px;
 }
+
+.footer-first .logo {margin: 24px 0;-webkit-filter: brightness(0) invert(1);filter: brightness(0) invert(1);max-width: 165px;}
+
 footer {
     background: var(--color2);
     color: white;
